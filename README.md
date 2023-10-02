@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Alaniz</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Alanzi</h1>
 <h3 align="center">Application and website developer [Flutter]</h3>
 
 <p align="left"> <a href="https://twitter.com/ix_xia" target="blank"><img src="https://img.shields.io/twitter/follow/ix_xia?logo=twitter&style=for-the-badge" alt="ix_xia" /></a> </p>
